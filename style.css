@@ -1,0 +1,115 @@
+
+body {
+    background-color: #f1f1f1;
+    font-family: Arial;
+    color: #333333;
+}
+
+.container {
+    width: 800px;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #f5f8fc;
+    border: 1px solid #dddddd;
+    border-radius: 15px;
+}
+
+.header {
+    background-color: #1c4b7c;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.header a {
+    display: inline-block;
+    color: white;
+    background-color: #315f8c;
+    text-decoration: none;
+    padding: 7px 12px;
+    margin: 3px;
+    border-radius: 15px;
+}
+
+.section {
+    background-color: white;
+    margin-top: 15px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #1c4b7c;
+    font-size: 20px;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #eeeeee;
+}
+
+.section p {
+    font-size: 13px;
+    line-height: 1.6;
+}
+
+.skill {
+    display: inline-block;
+    width: 135px;
+    height: 95px;
+    background-color: #f8fbff;
+    border: 1px solid #e1ebf6;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 8px;
+    vertical-align: top;
+}
+
+.skill h3 {
+    color: #1765a5;
+}
+
+.job {
+    background-color: #f7f9fc;
+    border-left: 3px solid #3284cf;
+    padding: 12px;
+    margin-top: 12px;
+    border-radius: 5px;
+}
+
+.job h4 {
+    color: #1765a5;
+}
+
+.contact {
+    background-color: #1c4b7c;
+    color: white;
+    margin-top: 15px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.contact h2 {
+    color: white;
+}
+
+.contact a {
+    display: inline-block;
+    color: white;
+    background-color: #315f8c;
+    text-decoration: none;
+    padding: 7px 12px;
+    margin: 3px;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: #071c37;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 7px;
+    font-size: 12px;
+}
